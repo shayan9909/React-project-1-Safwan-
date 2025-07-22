@@ -11,7 +11,8 @@ export default {
         secondary: '#E5745D'
       },
        fontFamily: {
-      'jost': ["Jost"]
+      'jost': ["Jost"],
+      'voll': ["Vollkorn", "serif"]
     },
     maxWidth: {
       'container': '1170px'

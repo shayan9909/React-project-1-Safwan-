@@ -1,11 +1,12 @@
+import Banner from './Layouts/Banner'
 import Navbar from './Layouts/Navbar'
 
 const App = () => {
   return (
-    <div>
+    <>
       <Navbar />
-
-    </div>
+      <Banner />
+    </>
   )
 }
 
